@@ -1,0 +1,41 @@
+.total{
+    width: 700px;
+    height: 230px;
+    display: flex;
+    flex-direction: column;
+}
+
+.img{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.des{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    margin-left: 30px;
+}
+
+.line{
+    border: 1px solid;
+    margin-bottom: 50px;
+}
+
+h2{
+    display: inline-block;
+}
+
+span{
+    text-align: end;
+}
+
+img{
+    width: 200px;
+    
+}
+
+.btn{
+    display: flex;
+    flex-direction: row-reverse;
+}

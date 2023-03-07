@@ -1,0 +1,17 @@
+.big_sq{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 700px;
+}
+
+.sq{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 150px;
+}
